@@ -1,1 +1,1 @@
-RK L'ENDER est un client Minecraft moddé basé sur fabric en 1.21.1
+RK L'ENDER est un client Minecraft moddé basé sur NéoForge en 1.21.1
